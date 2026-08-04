@@ -1,0 +1,24 @@
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyc
+.DS_Store
+
+# ── App secrets & database (NEVER commit) ───────────────────────────────────
+annotation_app/.streamlit/secrets.toml
+annotation_app/ratings.db
+
+# ── Large / unnecessary result files ────────────────────────────────────────
+results_llama.jsonl
+results_mistral.jsonl
+
+# ── Template output folders (generated, not needed for the app) ─────────────
+templates/
+templates_qwen/
+templates_gemma4/
+
+# ── PDFs and other local docs ───────────────────────────────────────────────
+*.pdf
+
+# ── Misc ────────────────────────────────────────────────────────────────────
+*.log

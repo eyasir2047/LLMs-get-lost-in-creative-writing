@@ -1,0 +1,6 @@
+# Never commit secrets or the SQLite database
+.streamlit/secrets.toml
+ratings.db
+__pycache__/
+*.pyc
+.DS_Store

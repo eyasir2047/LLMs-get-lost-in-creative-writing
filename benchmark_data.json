@@ -1,0 +1,567 @@
+[
+  {
+    "domain": "mystery",
+    "item_id": 1,
+    "title": "The Locked Study",
+    "full_instruction": "Write a detective story about a private investigator called in to solve a murder inside a locked study. The investigator has a habit of narrating his own deductions out loud to an invisible audience. The study door was locked from the inside, with the only key found in the victim's own pocket. Include the exact phrase \"the room lied before anyone else did.\" During the story, reveal that the investigator himself let the victim into the study through a hidden passage hours earlier, unaware a murder would follow. End with the investigator confessing his unwitting role to the local police inspector.",
+    "shards": [
+      "Write a detective story about a private investigator called in to solve a murder inside a locked study.",
+      "Give the investigator a habit of narrating his own deductions out loud to an invisible audience.",
+      "The study door was locked from the inside, with the only key found in the victim's own pocket.",
+      "Include the exact phrase \"the room lied before anyone else did.\"",
+      "During the story, reveal that the investigator himself let the victim into the study through a hidden passage hours earlier, unaware a murder would follow.",
+      "End with the investigator confessing his unwitting role to the local police inspector."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 2,
+    "title": "The Vanishing Conductor",
+    "full_instruction": "Write a mystery story about a train conductor who disappears somewhere between two stations on a night express. The lead investigator on board is a retired detective traveling incognito as an ordinary passenger. Set the story entirely within the train's dining car and narrow sleeping corridors. Write the entire story in first person from the retired detective's point of view. During the story, reveal that the conductor staged his own disappearance to escape a debt owed to one of the passengers. End with the conductor being found hiding inside an unused luggage compartment two cars away.",
+    "shards": [
+      "Write a mystery story about a train conductor who disappears somewhere between two stations on a night express.",
+      "The lead investigator on board is a retired detective traveling incognito as an ordinary passenger.",
+      "Set the story entirely within the train's dining car and narrow sleeping corridors.",
+      "Write the entire story in first person from the retired detective's point of view.",
+      "During the story, reveal that the conductor staged his own disappearance to escape a debt owed to one of the passengers.",
+      "End with the conductor being found hiding inside an unused luggage compartment two cars away."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 3,
+    "title": "The Forger's Alibi",
+    "full_instruction": "Write a mystery story about a museum curator accused of forging the painting she was hired to authenticate. The detective assigned to the case has an eidetic memory for brushstrokes but forgets ordinary faces within minutes. The investigation takes place over a single tense evening at the museum's closing gala. Include the exact sentence \"Every forgery begins with someone wanting to believe it.\" During the story, reveal that the curator forged the painting deliberately to expose her own employer's decades of art fraud. End with the detective quietly deciding not to report what he has learned about the employer.",
+    "shards": [
+      "Write a mystery story about a museum curator accused of forging the painting she was hired to authenticate.",
+      "The detective assigned to the case has an eidetic memory for brushstrokes but forgets ordinary faces within minutes.",
+      "The investigation takes place over a single tense evening at the museum's closing gala.",
+      "Include the exact sentence \"Every forgery begins with someone wanting to believe it.\"",
+      "During the story, reveal that the curator forged the painting deliberately to expose her own employer's decades of art fraud.",
+      "End with the detective quietly deciding not to report what he has learned about the employer."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 4,
+    "title": "The Silent Witness",
+    "full_instruction": "Write a mystery story about a deaf teenager who is the only witness to a jewelry heist gone wrong. She communicates with the investigating detective entirely through handwritten notes. The heist took place inside a pawn shop that had been closed for renovations. Do not use the word \"witness\" anywhere in the text. During the story, reveal that the teenager was not merely a witness but the getaway driver's estranged sister, torn between loyalty and the truth. End with the detective giving her the choice of whether to speak the truth at all.",
+    "shards": [
+      "Write a mystery story about a deaf teenager who is the only witness to a jewelry heist gone wrong.",
+      "She communicates with the investigating detective entirely through handwritten notes.",
+      "The heist took place inside a pawn shop that had been closed for renovations.",
+      "Do not use the word \"witness\" anywhere in the text.",
+      "During the story, reveal that the teenager was not merely a witness but the getaway driver's estranged sister, torn between loyalty and the truth.",
+      "End with the detective giving her the choice of whether to speak the truth at all."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 5,
+    "title": "The Coroner's Notebook",
+    "full_instruction": "Write a mystery story about a small-town coroner who begins to suspect her own late husband was a serial poisoner. She keeps a private notebook of unofficial suspicions that she never shows the sheriff. During the story, reveal that her husband's final victim was intended to be her, and she survived only by accident. Set the story in the town's single overworked morgue during a heatwave. Include the exact phrase \"the dead keep better secrets than the living.\" End with the coroner burning her husband's old medical bag without telling anyone why.",
+    "shards": [
+      "Write a mystery story about a small-town coroner who begins to suspect her own late husband was a serial poisoner.",
+      "She keeps a private notebook of unofficial suspicions that she never shows the sheriff.",
+      "During the story, reveal that her husband's final victim was intended to be her, and she survived only by accident.",
+      "Set the story in the town's single overworked morgue during a heatwave.",
+      "Include the exact phrase \"the dead keep better secrets than the living.\"",
+      "End with the coroner burning her husband's old medical bag without telling anyone why."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 6,
+    "title": "The Chess Club Confession",
+    "full_instruction": "Write a mystery story about a chess club president found dead after a tournament final that ended in a controversial draw. The detective investigating happens to be a former grandmaster who quit competitive chess years ago. During the story, reveal that the draw was actually a coded confession the victim had arranged with his own killer through a sequence of moves. Set the story entirely within the club's cramped tournament hall over one evening. Write the entire story using chess terminology as extended metaphor throughout. End with the detective replaying the final game aloud to force the killer's hand.",
+    "shards": [
+      "Write a mystery story about a chess club president found dead after a tournament final that ended in a controversial draw.",
+      "The detective investigating happens to be a former grandmaster who quit competitive chess years ago.",
+      "During the story, reveal that the draw was actually a coded confession the victim had arranged with his own killer through a sequence of moves.",
+      "Set the story entirely within the club's cramped tournament hall over one evening.",
+      "Write the entire story using chess terminology as extended metaphor throughout.",
+      "End with the detective replaying the final game aloud to force the killer's hand."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 7,
+    "title": "The Understudy's Cue",
+    "full_instruction": "Write a mystery story about a theater understudy who takes the stage the same night the lead actress is found dead backstage. The detective assigned to the case is also an amateur playwright who can't resist analyzing everyone's dialogue for tells. During the story, reveal that the understudy poisoned the lead's tea only to stop her from exposing an affair, not realizing the tea had already been swapped by someone else. Set the story within the theater's backstage corridors during a single performance intermission. Include the exact sentence \"Every actor lies for a living; the trick is knowing which lie matters.\" End with the detective discovering the tea was never poisoned at all, and the real cause of death lying elsewhere entirely.",
+    "shards": [
+      "Write a mystery story about a theater understudy who takes the stage the same night the lead actress is found dead backstage.",
+      "The detective assigned to the case is also an amateur playwright who can't resist analyzing everyone's dialogue for tells.",
+      "During the story, reveal that the understudy poisoned the lead's tea only to stop her from exposing an affair, not realizing the tea had already been swapped by someone else.",
+      "Set the story within the theater's backstage corridors during a single performance intermission.",
+      "Include the exact sentence \"Every actor lies for a living; the trick is knowing which lie matters.\"",
+      "End with the detective discovering the tea was never poisoned at all, and the real cause of death lying elsewhere entirely."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 8,
+    "title": "The Radio Cipher",
+    "full_instruction": "Write a mystery story about a wartime radio operator who intercepts a coded message that turns out to describe a murder before it happens. She has a talent for cracking ciphers but almost no patience for procedure or her superiors. During the story, reveal that the coded message was sent by the future victim himself, trying to warn someone too late. Set the story inside a cramped underground listening station during a single overnight shift. Write the entire story without using the word \"code.\" End with the operator racing to stop a murder she now believes has already happened somewhere else.",
+    "shards": [
+      "Write a mystery story about a wartime radio operator who intercepts a coded message that turns out to describe a murder before it happens.",
+      "She has a talent for cracking ciphers but almost no patience for procedure or her superiors.",
+      "During the story, reveal that the coded message was sent by the future victim himself, trying to warn someone too late.",
+      "Set the story inside a cramped underground listening station during a single overnight shift.",
+      "Write the entire story without using the word \"code.\"",
+      "End with the operator racing to stop a murder she now believes has already happened somewhere else."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 9,
+    "title": "The Bookbinder's Ledger",
+    "full_instruction": "Write a mystery story about a rare bookbinder who discovers a client's forged will hidden inside a book she was restoring. She has a compulsive need to catalog everything she touches, including things she shouldn't. The story takes place across a single week inside her cluttered bindery workshop. Include the exact phrase \"paper remembers every hand that folds it.\" A police detective arrives insisting the will's forgery is connected to a death that occurred years earlier. During the story, reveal that the bookbinder herself forged the will decades ago at the request of the man who just died, and has spent years living with the secret.",
+    "shards": [
+      "Write a mystery story about a rare bookbinder who discovers a client's forged will hidden inside a book she was restoring.",
+      "She has a compulsive need to catalog everything she touches, including things she shouldn't.",
+      "The story takes place across a single week inside her cluttered bindery workshop.",
+      "Include the exact phrase \"paper remembers every hand that folds it.\"",
+      "A police detective arrives insisting the will's forgery is connected to a death that occurred years earlier.",
+      "During the story, reveal that the bookbinder herself forged the will decades ago at the request of the man who just died, and has spent years living with the secret."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 10,
+    "title": "The Lighthouse Keeper's Log",
+    "full_instruction": "Write a mystery story about a lighthouse keeper who finds a stranger's body washed up beneath the tower during a storm. The keeper has kept a meticulous logbook of every ship that has passed the point for thirty years. Set the story entirely on the isolated rock island during the three days before the storm finally clears. Write the entire story in the form of logbook entries. A coast guard investigator arrives by boat once the weather breaks, suspicious of the keeper's calm. During the story, reveal that the keeper recognized the body immediately as a smuggler he had secretly been reporting to authorities for years.",
+    "shards": [
+      "Write a mystery story about a lighthouse keeper who finds a stranger's body washed up beneath the tower during a storm.",
+      "The keeper has kept a meticulous logbook of every ship that has passed the point for thirty years.",
+      "Set the story entirely on the isolated rock island during the three days before the storm finally clears.",
+      "Write the entire story in the form of logbook entries.",
+      "A coast guard investigator arrives by boat once the weather breaks, suspicious of the keeper's calm.",
+      "During the story, reveal that the keeper recognized the body immediately as a smuggler he had secretly been reporting to authorities for years."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 11,
+    "title": "The Auctioneer's Gavel",
+    "full_instruction": "Write a mystery story about an auctioneer who collapses mid-sale moments after selling a mysterious sealed lot to an anonymous bidder. The detective on the scene has a reputation for solving cases purely through observing what people don't say. The auction house has hosted the same collectors for over twenty years without a single scandal until now. Include the exact word \"hammered\" at least twice. Every collector in the room insists they left their paddle on the table the entire time. During the story, reveal that the auctioneer poisoned himself deliberately to frame the anonymous bidder, an old rival he could never legally touch.",
+    "shards": [
+      "Write a mystery story about an auctioneer who collapses mid-sale moments after selling a mysterious sealed lot to an anonymous bidder.",
+      "The detective on the scene has a reputation for solving cases purely through observing what people don't say.",
+      "The auction house has hosted the same collectors for over twenty years without a single scandal until now.",
+      "Include the exact word \"hammered\" at least twice.",
+      "Every collector in the room insists they left their paddle on the table the entire time.",
+      "During the story, reveal that the auctioneer poisoned himself deliberately to frame the anonymous bidder, an old rival he could never legally touch."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 12,
+    "title": "The Understaffed Precinct",
+    "full_instruction": "Write a mystery story about a rookie detective assigned her first solo case in an understaffed rural precinct. She has memorized every unsolved case file in the precinct's archive out of sheer anxiety. Set the story during a three-day blizzard that cuts the town off from outside help. Write the entire story in present tense. The case involves a missing shopkeeper whose store was found locked from the outside. During the story, reveal that the shopkeeper staged his own disappearance using a case file the rookie herself once memorized, testing whether she would catch it.",
+    "shards": [
+      "Write a mystery story about a rookie detective assigned her first solo case in an understaffed rural precinct.",
+      "She has memorized every unsolved case file in the precinct's archive out of sheer anxiety.",
+      "Set the story during a three-day blizzard that cuts the town off from outside help.",
+      "Write the entire story in present tense.",
+      "The case involves a missing shopkeeper whose store was found locked from the outside.",
+      "During the story, reveal that the shopkeeper staged his own disappearance using a case file the rookie herself once memorized, testing whether she would catch it."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 13,
+    "title": "The Butler's Testimony",
+    "full_instruction": "Write a mystery story about a butler who is the last person to see his employer alive before a fatal fall down the manor stairs. He has served the family faithfully for over forty years without a single day off. The manor sits isolated on a cliffside estate reachable only by a single gravel road. During the story, reveal that the butler heard the employer arguing with someone on the phone moments before the fall, a call he deliberately failed to mention to police. Do not use the word \"butler\" anywhere in the text. End with the butler finally admitting whose voice he recognized on that call.",
+    "shards": [
+      "Write a mystery story about a butler who is the last person to see his employer alive before a fatal fall down the manor stairs.",
+      "He has served the family faithfully for over forty years without a single day off.",
+      "The manor sits isolated on a cliffside estate reachable only by a single gravel road.",
+      "During the story, reveal that the butler heard the employer arguing with someone on the phone moments before the fall, a call he deliberately failed to mention to police.",
+      "Do not use the word \"butler\" anywhere in the text.",
+      "End with the butler finally admitting whose voice he recognized on that call."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 14,
+    "title": "The Cartographer's Error",
+    "full_instruction": "Write a mystery story about a cartographer whose maps are found at the scene of three separate burglaries across the city. She insists she has not sold a single map to a stranger in over a year. The detective assigned to the case collects antique compasses as a nervous habit rather than a hobby. During the story, reveal that the cartographer's apprentice has been secretly tracing and selling copies of her unpublished maps behind her back. Include the exact phrase \"a map only lies if you trust it completely.\" End with the cartographer redrawing the city from memory, deliberately leaving the burgled streets blank.",
+    "shards": [
+      "Write a mystery story about a cartographer whose maps are found at the scene of three separate burglaries across the city.",
+      "She insists she has not sold a single map to a stranger in over a year.",
+      "The detective assigned to the case collects antique compasses as a nervous habit rather than a hobby.",
+      "During the story, reveal that the cartographer's apprentice has been secretly tracing and selling copies of her unpublished maps behind her back.",
+      "Include the exact phrase \"a map only lies if you trust it completely.\"",
+      "End with the cartographer redrawing the city from memory, deliberately leaving the burgled streets blank."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 15,
+    "title": "The Sommelier's Toast",
+    "full_instruction": "Write a mystery story about a sommelier who is accused of poisoning a wine served at a private anniversary dinner. He can identify a wine's vineyard, year, and barrel by smell alone, but struggles to remember names. The dinner took place in a private cellar room sealed off from the rest of the restaurant. During the story, reveal that the wine was never poisoned at all, and the victim's collapse was staged as part of an insurance scheme by the victim's own spouse. Write the entire story in second person, addressed to the sommelier. End with the sommelier being the only guest who refuses to toast at the dinner's rescheduled ending.",
+    "shards": [
+      "Write a mystery story about a sommelier who is accused of poisoning a wine served at a private anniversary dinner.",
+      "He can identify a wine's vineyard, year, and barrel by smell alone, but struggles to remember names.",
+      "The dinner took place in a private cellar room sealed off from the rest of the restaurant.",
+      "During the story, reveal that the wine was never poisoned at all, and the victim's collapse was staged as part of an insurance scheme by the victim's own spouse.",
+      "Write the entire story in second person, addressed to the sommelier.",
+      "End with the sommelier being the only guest who refuses to toast at the dinner's rescheduled ending."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 16,
+    "title": "The Pawnbroker's Silence",
+    "full_instruction": "Write a mystery story about a pawnbroker who refuses to explain why he bought a stolen watch he clearly recognized. He has a rule of never asking customers where their items came from, no exceptions in thirty years. The detective questioning him is convinced the pawnbroker is protecting someone rather than himself. During the story, reveal that the watch belonged to the pawnbroker's own son, missing for three years, and buying it was the only lead he had left. Include the exact sentence \"Some questions you stop asking so you can keep hoping.\" End with the pawnbroker finally handing the detective the one clue he had been hiding all along.",
+    "shards": [
+      "Write a mystery story about a pawnbroker who refuses to explain why he bought a stolen watch he clearly recognized.",
+      "He has a rule of never asking customers where their items came from, no exceptions in thirty years.",
+      "The detective questioning him is convinced the pawnbroker is protecting someone rather than himself.",
+      "During the story, reveal that the watch belonged to the pawnbroker's own son, missing for three years, and buying it was the only lead he had left.",
+      "Include the exact sentence \"Some questions you stop asking so you can keep hoping.\"",
+      "End with the pawnbroker finally handing the detective the one clue he had been hiding all along."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 17,
+    "title": "The Carnival Fortune Teller",
+    "full_instruction": "Write a mystery story about a carnival fortune teller who predicts a death that occurs exactly as she described it hours later. During the story, reveal that she is a retired detective who recognized the method of murder from an old unsolved case of her own. The carnival has traveled through the same string of small towns every summer for a decade. Set the story over the course of a single night before the carnival packs up and leaves town. Include the exact word \"foretold\" somewhere in the text. End with the fortune teller quietly following the carnival's route to catch the killer at the next town instead.",
+    "shards": [
+      "Write a mystery story about a carnival fortune teller who predicts a death that occurs exactly as she described it hours later.",
+      "During the story, reveal that she is a retired detective who recognized the method of murder from an old unsolved case of her own.",
+      "The carnival has traveled through the same string of small towns every summer for a decade.",
+      "Set the story over the course of a single night before the carnival packs up and leaves town.",
+      "Include the exact word \"foretold\" somewhere in the text.",
+      "End with the fortune teller quietly following the carnival's route to catch the killer at the next town instead."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 18,
+    "title": "The Locksmith's Duplicate",
+    "full_instruction": "Write a mystery story about a locksmith who is called to a crime scene because his own master key was used in the break-in. During the story, reveal that his apprentice has been secretly duplicating client keys and selling them for months without his knowledge. He keeps meticulous records of every key he has ever cut, cross-referenced by client and date. The detective investigating the case has a habit of testing every lock in a room before asking a single question. Do not use the word \"key\" anywhere in the text. End with the locksmith re-cutting every lock in the neighborhood himself, refusing payment from anyone.",
+    "shards": [
+      "Write a mystery story about a locksmith who is called to a crime scene because his own master key was used in the break-in.",
+      "During the story, reveal that his apprentice has been secretly duplicating client keys and selling them for months without his knowledge.",
+      "He keeps meticulous records of every key he has ever cut, cross-referenced by client and date.",
+      "The detective investigating the case has a habit of testing every lock in a room before asking a single question.",
+      "Do not use the word \"key\" anywhere in the text.",
+      "End with the locksmith re-cutting every lock in the neighborhood himself, refusing payment from anyone."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 19,
+    "title": "The Obituary Writer",
+    "full_instruction": "Write a mystery story about a small newspaper's obituary writer who notices the same unusual phrase appearing in three unrelated death notices. During the story, reveal that the phrase is a coded signal used by a killer to claim credit for murders staged as accidents. She has written obituaries for the same town for over fifteen years without ever meeting most of the deceased. Set the story inside the newspaper's nearly empty office during the slow week between Christmas and New Year. Write the entire story in first person from the obituary writer's point of view. End with the writer submitting her own obituary draft as a trap, waiting to see who requests the edit.",
+    "shards": [
+      "Write a mystery story about a small newspaper's obituary writer who notices the same unusual phrase appearing in three unrelated death notices.",
+      "During the story, reveal that the phrase is a coded signal used by a killer to claim credit for murders staged as accidents.",
+      "She has written obituaries for the same town for over fifteen years without ever meeting most of the deceased.",
+      "Set the story inside the newspaper's nearly empty office during the slow week between Christmas and New Year.",
+      "Write the entire story in first person from the obituary writer's point of view.",
+      "End with the writer submitting her own obituary draft as a trap, waiting to see who requests the edit."
+    ]
+  },
+  {
+    "domain": "mystery",
+    "item_id": 20,
+    "title": "The Ferryman's Passenger",
+    "full_instruction": "Write a mystery story about a night ferryman who realizes his last passenger of the evening never actually got off the boat. During the story, reveal that the passenger died mid-crossing of a condition no one else on board noticed, and has been quietly moved to hide it from the ferry company's insurance investigators. He has worked the same river crossing for twenty-two years without a single incident on record. Set the story entirely aboard the ferry during its final crossing of the night. Include the exact phrase \"the river keeps its own count.\" End with the ferryman reporting the death himself, ending his unblemished record on purpose.",
+    "shards": [
+      "Write a mystery story about a night ferryman who realizes his last passenger of the evening never actually got off the boat.",
+      "During the story, reveal that the passenger died mid-crossing of a condition no one else on board noticed, and has been quietly moved to hide it from the ferry company's insurance investigators.",
+      "He has worked the same river crossing for twenty-two years without a single incident on record.",
+      "Set the story entirely aboard the ferry during its final crossing of the night.",
+      "Include the exact phrase \"the river keeps its own count.\"",
+      "End with the ferryman reporting the death himself, ending his unblemished record on purpose."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 1,
+    "title": "The Last Bus",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two people stranded at a bus stop after missing the final bus during heavy rain. One secretly loves the other. Write in the first person. Include a small gift whose meaning appears near the end. A stray dog must interrupt a confession. Include the exact sentence, “Apparently, love had terrible timing.” End with another bus arriving, but neither character boarding it.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two people stranded at a bus stop during heavy rain.",
+      "One character should secretly love the other.",
+      "Write the story in the first person.",
+      "Include a small gift whose meaning is revealed near the end.",
+      "Have a stray dog interrupt a confession.",
+      "Include the exact sentence, “Apparently, love had terrible timing.”",
+      "End with another bus arriving, but neither character boarding it."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 2,
+    "title": "Rival Flower Shops",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two rival florists hired for the same wedding. They constantly criticise each other’s arrangements, although one has secretly preserved every flower the other ever gave them. Set the story during wedding preparations. Include a bouquet assembled from leftover flowers. Include the exact sentence, “Even the roses looked embarrassed.” End with one florist asking the other to become their permanent business partner and dinner companion.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two rival florists hired for the same wedding.",
+      "Have them constantly criticise each other’s flower arrangements.",
+      "Reveal that one florist secretly preserved every flower the other ever gave them.",
+      "Set the entire story during the wedding preparations.",
+      "Include a bouquet assembled from leftover flowers.",
+      "Include the exact sentence, “Even the roses looked embarrassed.”",
+      "End with one florist proposing a permanent business partnership and a dinner date."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 3,
+    "title": "The Wrong Lunchbox",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two coworkers who accidentally exchange identical lunchboxes. One lunchbox contains a handwritten confession intended to remain hidden. Write from the perspective of the person who discovers it. Include an awkward attempt to return the note unnoticed. Include the exact sentence, “My heart had apparently skipped lunch.” Keep the story playful. End with the coworkers agreeing to share their lunches every day.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two coworkers who exchange identical lunchboxes by accident.",
+      "One lunchbox should contain a hidden handwritten confession.",
+      "Write from the perspective of the coworker who discovers the confession.",
+      "Include an awkward attempt to return the note unnoticed.",
+      "Include the exact sentence, “My heart had apparently skipped lunch.”",
+      "Keep the story playful.",
+      "End with the coworkers agreeing to share lunch every day."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 4,
+    "title": "The Midnight Caller",
+    "full_instruction": "Write a short, deliberately cheesy romance story about a late-night radio host who receives anonymous song requests from the same caller every evening. The host slowly realises the caller is someone they know. Write the story through dialogue and brief narration. Include a song dedication that becomes an accidental confession. Include the exact sentence, “You have been broadcasting into my heart for months.” End with the caller appearing outside the studio window.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about a late-night radio host and a regular anonymous caller.",
+      "Have the caller request a song every evening.",
+      "The host should realise that the caller is someone they already know.",
+      "Write the story through dialogue and brief narration.",
+      "Include a song dedication that becomes an accidental confession.",
+      "Include the exact sentence, “You have been broadcasting into my heart for months.”",
+      "End with the caller appearing outside the studio window."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 5,
+    "title": "Closing Time at the Bookshop",
+    "full_instruction": "Write a short, deliberately cheesy romance story about a bookseller and the final customer trapped inside a shop during a storm. The customer has repeatedly bought books recommended by the bookseller without reading any of them. Reveal the real reason near the end. Include a love note hidden inside a novel. Include the exact sentence, “This was becoming painfully well-written.” End with the bookseller lending the customer a book on the condition that they discuss it over dinner.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about a bookseller and a customer trapped inside a bookshop during a storm.",
+      "Reveal that the customer repeatedly bought the bookseller’s recommendations without reading them.",
+      "Explain near the end why the customer kept returning.",
+      "Include a love note hidden inside a novel.",
+      "Include the exact sentence, “This was becoming painfully well-written.”",
+      "End with the bookseller lending the customer a book in exchange for a dinner discussion."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 6,
+    "title": "Swapped Suitcases",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two travellers who take each other’s suitcases at an airport. They meet again while searching for their luggage. One suitcase contains several objects suggesting its owner is secretly sentimental. Write in the third person. Include an airport announcement that interrupts an emotional moment. Include the exact sentence, “Their baggage was no longer the main problem.” End with both characters deliberately booking the same return flight.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two travellers who exchange suitcases accidentally.",
+      "Have them meet while searching for their missing luggage at an airport.",
+      "One suitcase should reveal that its owner is secretly sentimental.",
+      "Write the story in the third person.",
+      "Have an airport announcement interrupt an emotional moment.",
+      "Include the exact sentence, “Their baggage was no longer the main problem.”",
+      "End with both travellers booking the same return flight."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 7,
+    "title": "The Fake Reunion Date",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two old friends pretending to be a couple at a school reunion. Each believes the arrangement means nothing to the other. Include a slow dance during which their rehearsed story becomes suspiciously sincere. Write from one friend’s perspective. Include the exact sentence, “Pretending should not have felt this honest.” End with them continuing the date after leaving the reunion.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two old friends pretending to date at a school reunion.",
+      "Each friend should believe the arrangement means nothing to the other.",
+      "Write from one friend’s perspective.",
+      "Include a slow dance during which their invented relationship begins sounding sincere.",
+      "Include the exact sentence, “Pretending should not have felt this honest.”",
+      "End with them continuing the date after the reunion finishes."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 8,
+    "title": "Laundry on the Rooftop",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two neighbours who meet while rescuing their clothes from sudden rooftop rain. Their laundry becomes mixed together. One character discovers that the other still owns a shirt borrowed years earlier. Include playful embarrassment and one dramatic declaration. Include the exact sentence, “Even my socks had found a partner first.” End with them leaving the clothes in the rain while sharing one umbrella.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two neighbours rescuing laundry from sudden rooftop rain.",
+      "Have their clothes become mixed together.",
+      "Reveal that one neighbour still owns a shirt borrowed from the other years ago.",
+      "Include playful embarrassment and one dramatic declaration of affection.",
+      "Include the exact sentence, “Even my socks had found a partner first.”",
+      "End with them abandoning the laundry and sharing one umbrella."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 9,
+    "title": "Letters on the Train",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two commuters who leave anonymous notes for each other on the same train seat. Neither knows the other’s identity. During one journey, a delay traps them in the carriage together. Include a note being read aloud accidentally. Include the exact sentence, “The train was late, but my feelings had arrived early.” End with them signing their real names on the same note.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two commuters exchanging anonymous notes on a train.",
+      "Neither commuter should know the other writer’s identity.",
+      "Have a delay trap them together inside the carriage.",
+      "Include one anonymous note being read aloud accidentally.",
+      "Include the exact sentence, “The train was late, but my feelings had arrived early.”",
+      "End with both characters signing their real names on the same note."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 10,
+    "title": "The Baking Contest",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two finalists competing in a local baking contest. One secretly sabotages their own entry after learning how much winning matters to the other. The sacrifice should be discovered before judging ends. Include an overly sweet dessert and an equally sweet confession. Include the exact sentence, “There was too much sugar in everything except the truth.” End with them splitting the trophy.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two finalists in a baking contest.",
+      "Have one finalist secretly ruin their own entry to help the other win.",
+      "Reveal the sacrifice before the judging ends.",
+      "Include an overly sweet dessert and a romantic confession.",
+      "Include the exact sentence, “There was too much sugar in everything except the truth.”",
+      "End with the finalists sharing the trophy."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 11,
+    "title": "The Difficult Dog",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two people trying to adopt the same difficult dog from an animal shelter. The dog likes both of them but behaves badly whenever they separate. Include several failed attempts to decide who should take it home. Write in a playful tone. Include the exact sentence, “The dog had apparently chosen joint custody.” End with the characters adopting the dog together.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two people trying to adopt the same shelter dog.",
+      "The dog should like both people but misbehave whenever they separate.",
+      "Include several failed attempts to decide who should adopt it.",
+      "Keep the story playful.",
+      "Include the exact sentence, “The dog had apparently chosen joint custody.”",
+      "End with the characters adopting the dog together."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 12,
+    "title": "After Hours at the Museum",
+    "full_instruction": "Write a short, deliberately cheesy romance story about a museum employee and a visitor accidentally locked inside after closing. The visitor has been returning to admire the same portrait. Reveal that the portrait resembles the employee. Include a candlelit walk through the galleries after the lights fail. Include the exact sentence, “History had never looked so interested in my future.” End with the visitor asking to see the employee outside museum hours.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about a museum employee and a visitor locked inside after closing.",
+      "Have the visitor repeatedly return to admire the same portrait.",
+      "Reveal that the portrait resembles the museum employee.",
+      "Include a candlelit walk through the galleries after the lights fail.",
+      "Include the exact sentence, “History had never looked so interested in my future.”",
+      "End with the visitor asking to meet outside museum hours."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 13,
+    "title": "Messages on Coffee Cups",
+    "full_instruction": "Write a short, deliberately cheesy romance story about a café worker who writes jokes on one customer’s cup every morning. The customer begins responding beneath the cup sleeve. Neither speaks honestly in person. Include a misunderstanding caused by a message written on the wrong cup. Include the exact sentence, “Our relationship had better handwriting than communication.” End with the customer writing a dinner invitation instead of a reply.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about a café worker who writes jokes on a customer’s cup.",
+      "Have the customer answer by writing messages beneath the cup sleeve.",
+      "Neither character should communicate honestly in person.",
+      "Include a misunderstanding caused by a message placed on the wrong cup.",
+      "Include the exact sentence, “Our relationship had better handwriting than communication.”",
+      "End with the customer writing a dinner invitation."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 14,
+    "title": "The Lantern Festival",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two childhood friends reunited at a lantern festival. Each has prepared a wish concerning the other but tries to hide it. A gust of wind should exchange their lanterns before they are released. Include the exact sentence, “The universe had terrible manners but excellent instincts.” Keep the story warm and melodramatic. End with both characters releasing one lantern together.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two childhood friends reunited at a lantern festival.",
+      "Each character should prepare a secret wish concerning the other.",
+      "Have a gust of wind exchange their lanterns.",
+      "Include the exact sentence, “The universe had terrible manners but excellent instincts.”",
+      "Keep the story warm and melodramatic.",
+      "End with both characters releasing one lantern together."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 15,
+    "title": "Between Floors",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two office rivals trapped in an elevator. They have been competing for the same promotion. During the wait, one admits they were planning to reject the promotion and leave. Include an emergency telephone that repeatedly interrupts serious moments. Include the exact sentence, “My career was rising faster than the elevator.” End with the doors opening after they have agreed to stay for each other.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two office rivals trapped in an elevator.",
+      "Have them compete for the same promotion.",
+      "Reveal that one rival planned to reject the promotion and leave the company.",
+      "Have the emergency telephone repeatedly interrupt emotional moments.",
+      "Include the exact sentence, “My career was rising faster than the elevator.”",
+      "End with the doors opening after they agree to stay for each other."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 16,
+    "title": "The Last Photo Strip",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two strangers sharing the final working photo booth at a seaside fair. A malfunction forces them to pose together. Each photograph should capture them becoming progressively less awkward. Include one photograph that appears to show a kiss, although none occurred. Include the exact sentence, “The camera had developed feelings before we did.” End with them tearing the final photograph in half, then exchanging halves.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two strangers sharing a photo booth at a seaside fair.",
+      "Have a malfunction force them to pose together.",
+      "Each photograph should show them becoming less awkward.",
+      "Include one picture that appears to show a kiss that never occurred.",
+      "Include the exact sentence, “The camera had developed feelings before we did.”",
+      "End with them exchanging halves of the final photograph."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 17,
+    "title": "Cooking for Two",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two terrible cooks paired together during a cooking class. Both pretend to be skilled to impress the other. Their meal should become nearly inedible. Include a small fire that forces one character to rescue the other’s handwritten recipe. Include the exact sentence, “Dinner was ruined, but the evening had potential.” End with them ordering takeaway and calling it their first date.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two terrible cooks paired during a cooking class.",
+      "Both characters should pretend to be skilled to impress each other.",
+      "Have their meal become nearly inedible.",
+      "Include a small fire and the rescue of a handwritten recipe.",
+      "Include the exact sentence, “Dinner was ruined, but the evening had potential.”",
+      "End with them ordering takeaway and calling it their first date."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 18,
+    "title": "A Cloudy Night",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two astronomy-club members waiting to watch a rare meteor shower. Thick clouds prevent them from seeing anything. One character has secretly named an imaginary constellation after the other. Include a telescope pointed at the wrong object during a confession. Include the exact sentence, “The stars had cancelled, so we became the spectacle.” End with the clouds clearing after they kiss.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two astronomy-club members waiting for a meteor shower.",
+      "Have thick clouds prevent them from seeing the event.",
+      "Reveal that one character named an imaginary constellation after the other.",
+      "Include a telescope pointing at the wrong object during a confession.",
+      "Include the exact sentence, “The stars had cancelled, so we became the spectacle.”",
+      "End with the clouds clearing after they kiss."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 19,
+    "title": "The Balcony Garden",
+    "full_instruction": "Write a short, deliberately cheesy romance story about neighbours whose balcony plants grow into each other’s spaces. They begin exchanging notes attached to the branches. One pretends the notes concern gardening, although every message is flirtatious. Include a flower that blooms unexpectedly during an argument. Include the exact sentence, “Our plants had fewer boundaries than we did.” End with the neighbours removing the divider between their balconies.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about neighbours whose balcony plants become tangled together.",
+      "Have them exchange notes attached to the branches.",
+      "One neighbour should pretend the flirtatious notes are only about gardening.",
+      "Include a flower blooming unexpectedly during an argument.",
+      "Include the exact sentence, “Our plants had fewer boundaries than we did.”",
+      "End with the neighbours removing the divider between their balconies."
+    ]
+  },
+  {
+    "domain": "romance",
+    "item_id": 20,
+    "title": "The Unclaimed Umbrella",
+    "full_instruction": "Write a short, deliberately cheesy romance story about two people repeatedly claiming the same forgotten umbrella from a lost-property desk. Each has been returning it deliberately, hoping to meet the other again. Write from the desk attendant’s amused perspective. Include one argument over who owns the umbrella. Include the exact sentence, “Neither of them wanted the umbrella nearly as much as the rain.” End with the attendant closing the desk and sending them outside together.",
+    "shards": [
+      "Write a short, deliberately cheesy romance story about two people repeatedly claiming the same lost umbrella.",
+      "Reveal that both keep returning it because they hope to meet again.",
+      "Write from the lost-property attendant’s amused perspective.",
+      "Include an argument about who owns the umbrella.",
+      "Include the exact sentence, “Neither of them wanted the umbrella nearly as much as the rain.”",
+      "End with the attendant sending them outside together."
+    ]
+  }
+]
